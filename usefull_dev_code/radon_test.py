@@ -3,7 +3,7 @@ import radon.raw as raw
 from radon.metrics import h_visit  # <--- Dodany import
 
 # Nazwa pliku do zbadania
-filename = 'merge_sort_bad.py'
+filename = 'knapsack_modern.py'
 
 print(f"--- Analiza pliku: {filename} ---")
 
@@ -46,7 +46,5 @@ try:
 
 except FileNotFoundError:
     print(f"BŁĄD: Nie znaleziono pliku '{filename}'. Sprawdź nazwę.")
-except ImportError:
-    print("BŁĄD: Upewnij się, że nie nazwałeś swojego pliku 'radon.py'!")
 except Exception as e:
     print(f"BŁĄD: {e}")
