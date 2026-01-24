@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 # --- 1. DEFINICJA UNIWERSÓW ---
 
 
-density_universe = np.linspace(0, 20, 2000)
+density_universe = np.linspace(0, 40, 2000)
 cc_universe = np.linspace(0, 50, 5000)
 
 
@@ -21,8 +21,8 @@ d_optimal = IT2FS(density_universe,
 
 
 d_high = IT2FS(density_universe,
-               trapezoid_mf, [10, 14, 20, 20.1, 1.0],  # UMF
-               trapezoid_mf, [13, 16, 20, 20.1, 1.0])  # LMF
+               trapezoid_mf, [10, 25, 40, 40.1, 1.0],  # UMF
+               trapezoid_mf, [13, 30, 40, 40.1, 1.0])  # LMF
 
 
 
