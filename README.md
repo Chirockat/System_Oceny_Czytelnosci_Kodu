@@ -15,7 +15,7 @@ Dokumentacja techniczna projektu wykorzystującego logikę rozmytą typu 2 do au
 6. [Instrukcja Uruchomienia](#6-instrukcja-uruchomienia)
 7. [Przykłady Działania i Wyniki](#7-przykłady-działania-i-wyniki)
 8. [Wnioski i Możliwy Rozwój](#8-wnioski-i-możliwy-rozwój)
-
+9. [Wykorzystanie modelów LLM w tworzeniu projektu](#9-wykorzystanie-modelów-llm-w-tworzeniu-projektu)
 ---
 
 ## 1. Wstęp i Cel Projektu
@@ -85,3 +85,8 @@ Projekt zrealizowano w języku **Python 3.x**.
 * Python 3.8+
 * Zainstalowane pakiety z `requirements.txt`
 
+## 7. Przykłady Działania i Wyniki
+
+## 8. Wnioski i Możliwy Rozwój
+
+## 9. Wykorzystanie modelów LLM w tworzeniu projektu
