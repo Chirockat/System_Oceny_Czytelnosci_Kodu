@@ -99,3 +99,11 @@ Projekt zrealizowano w języku **Python 3.x**.
 ## 8. Wnioski i Możliwy Rozwój
 
 ## 9. Wykorzystanie modelów LLM w tworzeniu projektu
+
+Projekt powstał w asyście narzędzi LLM. Głównie był wykorzystywany model Gemini Pro 17. Pomógł on zarówno w kwesti generowania konkretnego kodu, jak i w warstwie kreatywnej. Jego praca obejmuje w szczególności: 
+
+- Zaproponowanie  **AST Density** jako zmiennej wejściowej modelu
+- Stworzenie prototypu aplikacji, który to prototyp był później ręcznie sprawdzany i modyfikowany
+- Utworzenie szkieletu niniejszej dokumentacji, która została później ręcznie uzupełniona
+
+Cała rozmowa użytkownika z Gemini została udokumentowana w pliku `Skrypt_rozmowy_Gemini.docx` znajdującym się w folderze `llm_usage` 
