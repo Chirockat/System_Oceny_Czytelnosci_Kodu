@@ -55,7 +55,7 @@ def analyze_ast_density(filename):
     print(f"-> AST DENSITY (Węzły na linię): {ast_density:.2f}")
 
 # Sprawdźmy wszystkie 3 pliki
-files = ['knapsack_modern.py', 'knapsack_basic.py', 'knapsack_messy.py']
+files = ['radon_test.py', 'knapsack_basic.py', 'knapsack_messy.py']
 
 for f in files:
     try:
