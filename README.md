@@ -2,6 +2,8 @@
 
 Dokumentacja techniczna projektu wykorzystującego logikę rozmytą typu 2 do automatycznej oceny jakości kodu źródłowego Python.
 
+![Demo aplikacji](assets/gui_example.gif)
+
 ---
 
 ## Spis Treści
