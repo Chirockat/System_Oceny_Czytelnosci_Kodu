@@ -1,6 +1,6 @@
-# System Oceny Jakości Kodu Oparty na Wnioskowaniu Rozmytym (Interval Type-2 TSK)
+# System Oceny Czytelności Kodu Oparty na Wnioskowaniu Rozmytym (Interval Type-2 TSK)
 
-Dokumentacja techniczna projektu wykorzystującego logikę rozmytą typu 2 do automatycznej oceny jakości kodu źródłowego Python.
+Dokumentacja techniczna projektu wykorzystującego logikę rozmytą typu 2 do automatycznej oceny czytelności kodu źródłowego Python.
 
 ![Demo aplikacji](assets/gui_example.gif)
 
